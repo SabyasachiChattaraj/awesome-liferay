@@ -1,0 +1,2 @@
+# awesome-liferay
+Awesome Liferay
